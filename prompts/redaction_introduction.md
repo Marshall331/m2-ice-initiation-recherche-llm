@@ -20,7 +20,7 @@ Structure obligatoirement ton introduction avec des sous-titres Markdown clairs 
 4. **Lacune identifiée dans la littérature** : explique pourquoi l'application séparée de la distillation et de la quantification post-entraînement entraîne une dégradation cumulative sur les petits modèles déployés sur matériel contraint.
 5. **Hypothèse et direction de recherche proposée** : présente notre contribution (approche conjointe de distillation guidée par la tâche et de quantification adaptée au matériel local), ses objectifs et l'organisation de l'article.
 
-⚠️ **Règle stricte sur les citations** :
+**Règle stricte sur les citations** :
 - Cite **uniquement** les articles fournis dans la liste ci-dessus, en intégrant directement leurs clés de citation dans le texte (ex. `(Gu et al., 2024)` ou `Selon Gu et al. (2024), ...`).
 - N'invente **aucune** référence bibliographique supplémentaire.
 - Ne rédige que l'introduction (sans l'abstract ni la bibliographie finale qui seront générés séparément).

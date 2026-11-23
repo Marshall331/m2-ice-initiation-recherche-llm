@@ -10,4 +10,4 @@ Formate chacune de ces références selon une norme académique standard (style 
 - La mention arXiv et le lien cliquable vers le PDF (`[PDF](url_pdf)`)
 
 Fournis également pour chaque référence sa clé de citation courte à utiliser dans le texte (ex. `(Gu et al., 2024)`).
-⚠️ La sortie doit strictement respecter le schéma JSON fourni (aucun texte hors JSON).
+La sortie doit strictement respecter le schéma JSON fourni (aucun texte hors JSON).

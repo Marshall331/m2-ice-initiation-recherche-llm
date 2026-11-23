@@ -14,4 +14,4 @@ Tu es un auteur scientifique expérimenté.
 ### Introduction de l'article
 {{introduction}}
 
-⚠️ Vérifie attentivement que le champ `abstract` fait bien entre **150 et 200 mots**. La sortie doit strictement respecter le schéma JSON fourni (aucun texte hors JSON).
+Vérifie attentivement que le champ `abstract` fait bien entre **150 et 200 mots**. La sortie doit strictement respecter le schéma JSON fourni (aucun texte hors JSON).

@@ -14,4 +14,4 @@ Extrais uniquement les informations présentes dans le texte fourni :
 - `pertinence` : classe l'article parmi `"keep"` (très pertinent, directement lié à la compression/distillation/quantification de LLM ou SLM), `"borderline"` (partiellement lié, utile pour le contexte général mais pas au cœur de la méthode), ou `"drop"` (hors sujet)
 - `justification_pertinence` : courte explication du classement choisi
 
-⚠️ La sortie doit strictement respecter le schéma JSON fourni (aucun texte hors JSON).
+La sortie doit strictement respecter le schéma JSON fourni (aucun texte hors JSON).

@@ -8,4 +8,4 @@ Pour chaque dispositif de financement, précise de manière claire et réaliste 
 - `contraintes` : les conditions d'éligibilité, obligations ou particularités (ex. partenariat industriel obligatoire, concours de l'école doctorale, livrables de projet, etc.)
 
 Fournis au moins 5 dispositifs variés et représentatifs.
-⚠️ La sortie doit strictement respecter le schéma JSON fourni (aucun texte hors JSON).
+La sortie doit strictement respecter le schéma JSON fourni (aucun texte hors JSON).

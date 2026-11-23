@@ -5,4 +5,4 @@ Présente de manière structurée l'écosystème de la recherche académique fra
 2. `types_laboratoires` : les principales structures de recherche en France (ex. UMR - Unité Mixte de Recherche, Équipe-projet Inria, UPR, UAR, Laboratoire universitaire UR) avec leur description.
 3. `tutelles_typiques` : la liste des grandes tutelles institutionnelles et de quelques laboratoires français réputés en informatique et IA (ex. CNRS, Inria, CEA, universités, IRIT, LIP6, LIRIS, LISN, LIG, Inria Saclay/Paris/Grenoble/Rennes).
 
-⚠️ La sortie doit strictement respecter le schéma JSON fourni (aucun texte hors JSON).
+La sortie doit strictement respecter le schéma JSON fourni (aucun texte hors JSON).

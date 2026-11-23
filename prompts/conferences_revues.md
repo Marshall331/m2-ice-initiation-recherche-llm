@@ -14,4 +14,4 @@ Pour chaque publication, renseigne obligatoirement :
 
 2. Sélectionne dans cette liste la publication (`publication_retenue`) qui correspond le mieux au sujet proposé et rédige une `justification_choix` détaillée (adéquation thématique, audience visée, visibilité pour des travaux sur la compression et la distillation de modèles de langage frugaux).
 
-⚠️ La sortie doit strictement respecter le schéma JSON fourni (aucun texte hors JSON).
+La sortie doit strictement respecter le schéma JSON fourni (aucun texte hors JSON).

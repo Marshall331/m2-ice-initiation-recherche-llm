@@ -16,4 +16,4 @@ Chaque chercheur encadrant doit comporter :
 - `institution` : laboratoire (IRIT, UMR 5505 — CNRS / Université Toulouse - Jean Jaurès)
 - `axe_recherche` : champ de recherche précis en lien avec le sujet de thèse
 
-⚠️ La sortie doit strictement respecter le schéma JSON fourni (aucun texte hors JSON).
+La sortie doit strictement respecter le schéma JSON fourni (aucun texte hors JSON).
